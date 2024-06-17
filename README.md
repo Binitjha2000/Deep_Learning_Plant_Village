@@ -1,9 +1,9 @@
 # Deep Learning Plant Village
 
-# Project Overview :
+# Project Overview
 This project focuses on the development of a deep neural network (DNN) for the classification of plant diseases using the PlantVillage dataset. The dataset contains over 54,000 images of healthy and unhealthy leaves from various plant species. The goal is to build a model that can accurately identify the type of disease affecting a plant based on an image of its leaf.
 
-# Key Concepts in Deep Learning :
+# Key Concepts in Deep Learning
 Flattening: In deep learning, flattening refers to converting a multi-dimensional array (e.g., an image) into a one-dimensional array. This step is essential before feeding the data into the fully connected (dense) layers of a neural network.
 
 Layers: 
@@ -21,7 +21,7 @@ SGD (Stochastic Gradient Descent): An optimization method that updates the model
 
 Dropout: A regularization method where a fraction of neurons is randomly ignored during training, which helps prevent overfitting.
 
-# Implementation Details :
+# Implementation Details
 Data Acquisition and Preprocessing
 
 Dataset: PlantVillage dataset, which includes 54,303 images categorized into 38 classes representing various plant diseases.
