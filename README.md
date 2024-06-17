@@ -1,5 +1,20 @@
 # Deep Learning Plant Village
 
+Objective: Classify plant diseases using the PlantVillage dataset.
+Model Architecture:
+Input layer
+Flatten layer
+Three dense layers with ReLU activation
+Output layer with softmax activation
+Techniques:
+Data augmentation
+Adam and SGD optimizers
+Dropout regularization
+Tools and Technologies:
+TensorFlow
+Keras
+Outcome: Achieved high accuracy in disease classification.
+
 # Project Overview
 This project focuses on the development of a deep neural network (DNN) for the classification of plant diseases using the PlantVillage dataset. The dataset contains over 54,000 images of healthy and unhealthy leaves from various plant species. The goal is to build a model that can accurately identify the type of disease affecting a plant based on an image of its leaf.
 
